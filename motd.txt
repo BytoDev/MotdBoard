@@ -1,0 +1,7 @@
+Welcome to The Alpha / Applab Release of Alien Jumpers V.4
+- Added Menu for Alien Jumpers Owner
+- Fixed Playfab Bugs
+- Kick All has been Fixed (W?)
+- Next Update will add PVP!
+
+-BYTE
