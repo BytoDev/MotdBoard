@@ -1,7 +1,6 @@
-Welcome to The Alpha / Applab Release of Alien Jumpers V.4
-- Added Menu for Alien Jumpers Owner
-- Fixed Playfab Bugs
-- Kick All has been Fixed (W?)
-- Next Update will add PVP!
+Welcome to The Alpha / Applab Release of Alien Jumpers V.6
+- Fixed Audio Issues
+- Fixed Kick / Ban Cosmetic
+- Added New Stuff in the Mod Room!
 
 - Byte
